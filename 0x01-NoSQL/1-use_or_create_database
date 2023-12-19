@@ -1,0 +1,2 @@
+// Script that creates a new database
+use my_db;
